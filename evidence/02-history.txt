@@ -1,0 +1,11 @@
+Initial Commit
+Hash: 42c7cc3
+Author: Zora Smith
+Message: Initial commit
+Changed files: .gitattributes, README.md
+
+Feature Commit
+Hash: cf8d888
+Author: Zora Smith
+Message: Add checkout script
+Changed file: checkout.py

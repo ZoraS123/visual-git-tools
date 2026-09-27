@@ -1,0 +1,3 @@
+Screenshot filename: git-history-diff.png
+
+What it proves: The screenshot shows the main branch selected in GitHub Desktop, the repository commit history, the selected Add visual tools review note commit and its details, and the README.md file diff showing the added line.

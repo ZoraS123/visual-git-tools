@@ -1,0 +1,6 @@
+Target branch: main
+Source branch: visual-tools
+
+Merge result: Fast-forward
+
+Explanation: The merge was a fast-forward because main had no competing commits after visual-tools was created. Git moved main forward to the Add checkout script commit without creating a separate merge commit.

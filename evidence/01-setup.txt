@@ -1,0 +1,9 @@
+Repository URL: https://github.com/ZoraS123/visual-git-tools
+
+GUI tool used: GitHub Desktop
+
+Setup method: Created the local lab-6 repository in GitHub Desktop, initialized it with a README, and published it to GitHub as the public visual-git-tools repository.
+
+Branch names:
+main
+visual-tools

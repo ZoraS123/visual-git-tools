@@ -1,0 +1,3 @@
+Fetch: After I clicked Fetch origin, GitHub Desktop showed 1 with a down arrow. Fetch updated the remote-tracking information and showed that origin/main had one commit that my local main did not have. My local working tree was not changed by the fetch.
+
+Pull: After I clicked Pull origin, the remote README commit was brought into my local main branch and my local README was updated. GitHub Desktop then returned to Fetch origin, showing that my local branch and the remote were synchronized.

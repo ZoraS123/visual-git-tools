@@ -1,0 +1,10 @@
+Repository URL: https://github.com/ZoraS123/visual-git-tools
+
+Branch names and purposes:
+main - The primary branch containing the completed version of the project.
+visual-tools - The feature branch used to add checkout.py and practice visual Git operations.
+
+GUI tool used: GitHub Desktop
+
+Reflection:
+GitHub Desktop made it easier for me to visually see my branches, commit history, and file changes compared with using the command line. The diff view helped me understand exactly what changed before and after a commit. Fetch and Pull were also easier to understand because I could see when my local branch was behind the remote-tracking branch. Resolving the merge conflict visually helped me see the difference between the current and incoming changes before deciding what to keep.
